@@ -43,3 +43,5 @@ describe_difference <- function(a, b) {
 # Call your `describe_difference` function by passing it different length strings
 # to confirm that it works. Make sure to check all 3 conditions1
 describe_difference("Hello World", "My name is Rico")
+describe_difference("YOO what's up info", "This can suck")
+describe_difference("Hello", "Howdy")
